@@ -1,2 +1,2 @@
 # FrontEnd
-FrontEnd repo from ArgProg Project
+FrontEnd repository from ArgProg Project
