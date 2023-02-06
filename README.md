@@ -1,5 +1,5 @@
 # FrontEnd
-FrontEnd repo from the Argentina.Programa Project
+FrontEnd repo from ArgProg Project
 
 U : Untracked files
 M : Modified
